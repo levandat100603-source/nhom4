@@ -1,1 +1,1 @@
-dong nay duoc ghi o GITHUB
+"dong nay duoc sua tren Github"
